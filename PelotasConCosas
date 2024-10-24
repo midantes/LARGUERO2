@@ -837,3 +837,15 @@ http://399926221733571907.ofgd1018.xyz:80/play/Josebenzema/5668290568/571907.ts
 http://399926221733585364.ofgd1018.xyz:80/play/Josebenzema/5668290568/585364.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MLS MESSI Pro" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="SVIP MLS Messi",ES: MLS MESSI Pro
 http://399926221733585369.ofgd1018.xyz:80/play/Josebenzema/5668290568/585369.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM SD" tvg-logo="http://graph.facebook.com/CMMediaes/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: CMM SD
+http://399926221733939556.ofgd1018.xyz:80/play/Josebenzema/5668290568/939556.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM CASTILLA LA MANCHA HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/CMM-TV-Castilla-La-Mancha-Media-en-DIRECTO-Online-en-vivo.png" group-title="ES   MOVISTAR+",ES: CMM CASTILLA LA MANCHA HD
+http://399926221733909195.ofgd1018.xyz:80/play/Josebenzema/5668290568/909195.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM SD" tvg-logo="http://estoxy.net:80/images/4QhFMMJaxMwJmkaRn-c8z-b54QLN_OaVzfizy8ZLvTfin0xGLpafKQ4Do3CTHNVG-KUSeaoAET2tADQm75vOB68VuYoNels14m01Qly8IYc.png" group-title="ES   MOVISTAR+",ES: CMM SD
+http://399926221733884777.ofgd1018.xyz:80/play/Josebenzema/5668290568/884777.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM CASTILLA LA MANCHA SD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/CMM-TV-Castilla-La-Mancha-Media-en-DIRECTO-Online-en-vivo.png" group-title="ES   MOVISTAR+",ES: CMM CASTILLA LA MANCHA SD
+http://399926221733875964.ofgd1018.xyz:80/play/Josebenzema/5668290568/875964.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM FHD" tvg-logo="http://estoxy.net:80/images/4QhFMMJaxMwJmkaRn-c8z-b54QLN_OaVzfizy8ZLvTfin0xGLpafKQ4Do3CTHNVG-KUSeaoAET2tADQm75vOB68VuYoNels14m01Qly8IYc.png" group-title="ES   MOVISTAR+",ES: CMM FHD
+http://399926221733863691.ofgd1018.xyz:80/play/Josebenzema/5668290568/863691.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA FHD
+http://399926221733863688.ofgd1018.xyz:80/play/Josebenzema/5668290568/863688.ts
